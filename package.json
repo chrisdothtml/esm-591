@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node -r esm --experimental-worker lib/index.js"
+  },
+  "dependencies": {
+    "esm": "^3.0.81"
+  }
+}
